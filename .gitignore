@@ -1,0 +1,6 @@
+*.fsl
+*~
+*.tgz
+*.bak
+tarup.sh
+tarup.bat
